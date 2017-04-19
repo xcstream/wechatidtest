@@ -1,0 +1,26 @@
+{
+  "name": "wechatidtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcstream/wechatidtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcstream/wechatidtest/issues"
+  },
+  "homepage": "https://github.com/xcstream/wechatidtest#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs-promise": "^2.0.2",
+    "isomorphic-fetch": "^2.2.1",
+    "node-fetch": "^1.6.3"
+  }
+}
