@@ -45,7 +45,6 @@ const TokenController = {
                 }
             }
 
-
             return TokenController.get_new_token()
         }catch(e){
             return Promise.reject(e)
